@@ -1,0 +1,35 @@
+{
+    "name": "dark-shell",
+    "version": "0.0.1",
+    "displayName": "Dark Shell",
+    "icon": "ds-icon.png",
+    "author": {
+        "name": "maximilionus",
+        "email": "xxxarakxxx@gmail.com"
+    },
+    "publisher": "maximilionus",
+    "description": "Dark Shell is a minimalistic gray-shaded dark mode theme for Visual Studio Code, based on One Dark Pro syntax highlighting.",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "extensionKind": [
+        "ui"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maximilionus/VSCode-Dark-Shell.git"
+    },
+    "license": "MIT",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Shell",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Shell-color-theme.json"
+            }
+        ]
+    }
+}
