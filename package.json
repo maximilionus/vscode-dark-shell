@@ -22,6 +22,9 @@
         "type": "git",
         "url": "https://github.com/maximilionus/VSCode-Dark-Shell.git"
     },
+    "bugs": {
+        "url": "https://github.com/maximilionus/VSCode-Dark-Shell/issues"
+    },
     "license": "MIT",
     "contributes": {
         "themes": [
