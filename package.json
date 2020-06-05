@@ -1,6 +1,6 @@
 {
     "name": "dark-shell",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "displayName": "Dark Shell",
     "icon": "ds-icon.png",
     "author": {
@@ -15,17 +15,24 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "Dark Theme",
+        "Dark Mode",
+        "Gray Color",
+        "Gray Shaded",
+        "OneDarkPro Based"
+    ],
     "extensionKind": [
         "ui"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/maximilionus/VSCode-Dark-Shell.git"
+        "url": "https://github.com/maximilionus/vscode-dark-shell.git"
     },
     "bugs": {
-        "url": "https://github.com/maximilionus/VSCode-Dark-Shell/issues"
+        "url": "https://github.com/maximilionus/vscode-dark-shell/issues"
     },
-    "license": "MIT",
+    "license": "SEE LICENSE IN ./LICENSE",
     "contributes": {
         "themes": [
             {
