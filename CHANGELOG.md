@@ -1,4 +1,7 @@
 # Change Log
+## 0.0.4 - 2020-06-06
+- Icon update
+
 ## 0.0.3 - 2020-06-05
 - Update git repo links in package.json
 - Add keywords to package
